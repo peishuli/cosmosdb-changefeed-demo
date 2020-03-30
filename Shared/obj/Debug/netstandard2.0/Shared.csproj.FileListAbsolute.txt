@@ -1,0 +1,16 @@
+C:\Users\peishu.li\Documents\CosmosLabs\Lab08\Shared\bin\Debug\netstandard2.0\Shared.deps.json
+C:\Users\peishu.li\Documents\CosmosLabs\Lab08\Shared\bin\Debug\netstandard2.0\Shared.dll
+C:\Users\peishu.li\Documents\CosmosLabs\Lab08\Shared\bin\Debug\netstandard2.0\Shared.pdb
+C:\Users\peishu.li\Documents\CosmosLabs\Lab08\Shared\obj\Debug\netstandard2.0\Shared.AssemblyInfoInputs.cache
+C:\Users\peishu.li\Documents\CosmosLabs\Lab08\Shared\obj\Debug\netstandard2.0\Shared.AssemblyInfo.cs
+C:\Users\peishu.li\Documents\CosmosLabs\Lab08\Shared\obj\Debug\netstandard2.0\Shared.dll
+C:\Users\peishu.li\Documents\CosmosLabs\Lab08\Shared\obj\Debug\netstandard2.0\Shared.pdb
+C:\Users\peishu.li\Documents\CosmosLabs\Lab08\Shared\obj\Debug\netstandard2.0\Shared.csprojAssemblyReference.cache
+C:\chl\cosmos\change-feed-demo\Shared\bin\Debug\netstandard2.0\Shared.deps.json
+C:\chl\cosmos\change-feed-demo\Shared\bin\Debug\netstandard2.0\Shared.dll
+C:\chl\cosmos\change-feed-demo\Shared\bin\Debug\netstandard2.0\Shared.pdb
+C:\chl\cosmos\change-feed-demo\Shared\obj\Debug\netstandard2.0\Shared.csprojAssemblyReference.cache
+C:\chl\cosmos\change-feed-demo\Shared\obj\Debug\netstandard2.0\Shared.AssemblyInfoInputs.cache
+C:\chl\cosmos\change-feed-demo\Shared\obj\Debug\netstandard2.0\Shared.AssemblyInfo.cs
+C:\chl\cosmos\change-feed-demo\Shared\obj\Debug\netstandard2.0\Shared.dll
+C:\chl\cosmos\change-feed-demo\Shared\obj\Debug\netstandard2.0\Shared.pdb
