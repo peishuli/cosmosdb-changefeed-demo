@@ -1393,11 +1393,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\chl\\cosmos\\change-feed-demo\\ChangeFeedConsole\\ChangeFeedConsole.csproj",
+      "projectUniqueName": "C:\\chl\\cosmos\\cosmosdb-changefeed-demo\\ChangeFeedConsole\\ChangeFeedConsole.csproj",
       "projectName": "ChangeFeedConsole",
-      "projectPath": "C:\\chl\\cosmos\\change-feed-demo\\ChangeFeedConsole\\ChangeFeedConsole.csproj",
+      "projectPath": "C:\\chl\\cosmos\\cosmosdb-changefeed-demo\\ChangeFeedConsole\\ChangeFeedConsole.csproj",
       "packagesPath": "C:\\Users\\peishu.li\\.nuget\\packages\\",
-      "outputPath": "C:\\chl\\cosmos\\change-feed-demo\\ChangeFeedConsole\\obj\\",
+      "outputPath": "C:\\chl\\cosmos\\cosmosdb-changefeed-demo\\ChangeFeedConsole\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -1419,8 +1419,8 @@
       "frameworks": {
         "netcoreapp2.1": {
           "projectReferences": {
-            "C:\\chl\\cosmos\\change-feed-demo\\Shared\\Shared.csproj": {
-              "projectPath": "C:\\chl\\cosmos\\change-feed-demo\\Shared\\Shared.csproj"
+            "C:\\chl\\cosmos\\cosmosdb-changefeed-demo\\Shared\\Shared.csproj": {
+              "projectPath": "C:\\chl\\cosmos\\cosmosdb-changefeed-demo\\Shared\\Shared.csproj"
             }
           }
         }

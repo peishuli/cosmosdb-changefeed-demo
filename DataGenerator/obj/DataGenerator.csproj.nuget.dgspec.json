@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\chl\\cosmos\\change-feed-demo\\DataGenerator\\DataGenerator.csproj": {}
+    "C:\\chl\\cosmos\\cosmosdb-changefeed-demo\\DataGenerator\\DataGenerator.csproj": {}
   },
   "projects": {
-    "C:\\chl\\cosmos\\change-feed-demo\\DataGenerator\\DataGenerator.csproj": {
+    "C:\\chl\\cosmos\\cosmosdb-changefeed-demo\\DataGenerator\\DataGenerator.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\chl\\cosmos\\change-feed-demo\\DataGenerator\\DataGenerator.csproj",
+        "projectUniqueName": "C:\\chl\\cosmos\\cosmosdb-changefeed-demo\\DataGenerator\\DataGenerator.csproj",
         "projectName": "DataGenerator",
-        "projectPath": "C:\\chl\\cosmos\\change-feed-demo\\DataGenerator\\DataGenerator.csproj",
+        "projectPath": "C:\\chl\\cosmos\\cosmosdb-changefeed-demo\\DataGenerator\\DataGenerator.csproj",
         "packagesPath": "C:\\Users\\peishu.li\\.nuget\\packages\\",
-        "outputPath": "C:\\chl\\cosmos\\change-feed-demo\\DataGenerator\\obj\\",
+        "outputPath": "C:\\chl\\cosmos\\cosmosdb-changefeed-demo\\DataGenerator\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -33,8 +33,8 @@
         "frameworks": {
           "netcoreapp2.1": {
             "projectReferences": {
-              "C:\\chl\\cosmos\\change-feed-demo\\Shared\\Shared.csproj": {
-                "projectPath": "C:\\chl\\cosmos\\change-feed-demo\\Shared\\Shared.csproj"
+              "C:\\chl\\cosmos\\cosmosdb-changefeed-demo\\Shared\\Shared.csproj": {
+                "projectPath": "C:\\chl\\cosmos\\cosmosdb-changefeed-demo\\Shared\\Shared.csproj"
               }
             }
           }
@@ -77,14 +77,14 @@
         }
       }
     },
-    "C:\\chl\\cosmos\\change-feed-demo\\Shared\\Shared.csproj": {
+    "C:\\chl\\cosmos\\cosmosdb-changefeed-demo\\Shared\\Shared.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\chl\\cosmos\\change-feed-demo\\Shared\\Shared.csproj",
+        "projectUniqueName": "C:\\chl\\cosmos\\cosmosdb-changefeed-demo\\Shared\\Shared.csproj",
         "projectName": "Shared",
-        "projectPath": "C:\\chl\\cosmos\\change-feed-demo\\Shared\\Shared.csproj",
+        "projectPath": "C:\\chl\\cosmos\\cosmosdb-changefeed-demo\\Shared\\Shared.csproj",
         "packagesPath": "C:\\Users\\peishu.li\\.nuget\\packages\\",
-        "outputPath": "C:\\chl\\cosmos\\change-feed-demo\\Shared\\obj\\",
+        "outputPath": "C:\\chl\\cosmos\\cosmosdb-changefeed-demo\\Shared\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
